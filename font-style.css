@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&family=Roboto:ital,wght@0,300;0,400;1,700&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.titolo{
+    font-family: 'Luckiest Guy', cursive;
+    
+}
